@@ -10,6 +10,18 @@ The project combines process engineering, financial analysis, and software devel
 
 
 
+\## Live Demo
+
+
+
+Try ATLAS in your browser:
+
+
+
+https://atlas-industrial-simulator.streamlit.app/
+
+
+
 \## Features
 
 
